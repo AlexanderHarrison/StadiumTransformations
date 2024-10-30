@@ -21,4 +21,4 @@ I can try to fix these if necessary, but it could be difficult.
   - Change the icon and name to whatever you want.
   - Set the "Stage" to "PSFire" or which ever transformation you want.
 7. File->Save and let m-ex rebuild if it wants to.
-8. Enjoy! Feel free to DM me in my [discord](https://discord.gg/2Khb8CVP7A) if you run into issues.
+8. Enjoy! Feel free to ping me in my [discord](https://discord.gg/2Khb8CVP7A) if you run into issues.
